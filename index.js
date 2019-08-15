@@ -64,4 +64,4 @@ switch (binNum) {
 //
 // <strong>Challenge</strong>: Do the above program until the user enter's 'q'. Also, print and add to the array via a function call to the appropriate teacher/student/parent function.
 
-let 
+// let 
